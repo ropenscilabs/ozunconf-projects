@@ -17,7 +17,7 @@ output: html_document
 
 ### `r emo::ji("clock")` [stow - simple version control in R](https://github.com/ropenscilabs/ozrepro)
 
-### `r emo::ji("cricket")` [crickinfo - access cricket data from crickinfo ](https://github.com/ropenscilabs/crickinfo)
+### `r emo::ji("cricket")` [cricinfo - access cricket data from crickinfo ](https://github.com/ropenscilabs/cricinfo)
 
 ### `r emo::ji("fire")` [ronfhir - makes data available in R from servers that follow the FHIR format](https://github.com/ropenscilabs/ronfhir)
 
