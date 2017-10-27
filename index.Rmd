@@ -5,8 +5,6 @@ output: html_document
 
 ### `r emo::ji("road")` [ozroaddeaths - Pull data from the Australian Road Deaths Database](https://github.com/ropenscilabs/ozroaddeaths)
 
-### `r emo::ji("road")` [ozroaddeaths - Pull data from the Australian Road Deaths Database](https://github.com/ropenscilabs/ozroaddeaths)
-
 ### `r emo::ji("time")` [realtime - Plot real time events](https://github.com/ropenscilabs/realtime)
 
 ### `r emo::ji("line")` [realtime - Plot real time events](https://github.com/ropenscilabs/realtime)
