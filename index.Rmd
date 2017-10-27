@@ -10,9 +10,15 @@
 
 ### `r emo::ji("clock")` [stow - simple version control in R](https://github.com/ropenscilabs/ozrepro)
 
-### `r emo::ji("cricket")` [crickinfo - ](https://github.com/ropenscilabs/ozwomensports/Cricket/crickinfo)
+### `r emo::ji("cricket")` [crickinfo - ](https://github.com/ropenscilabs/crickinfo)
 
 ### `r emo::ji("fire")` [ronfhir - makes data available in R from servers that follow the FHIR format](https://github.com/ropenscilabs/ronfhir)
+
+### `r emo::ji("graph")` [styles - themes for base plots](https://github.com/ropenscilabs/styles)
+
+### `r emo::ji("australia")` `r emo::ji("woman")` `r emo::ji("football")` [AFLW - AFL Womens](https://github.com/ropenscilabs/ozwomensport/tree/master/AFLW)
+
+### `r emo::ji("australia")` `r emo::ji("paint")` [ochRe](https://github.com/ropenscilabs/ochRe)
 
 ---
 
