@@ -1,50 +1,12 @@
-# R OpenSci Unconference 2017 Projects
+# R OpenSci ozunconference 2017 Projects
 
-### `r emo::ji("scissors")` [mwparser - Wikimarkup Parsing in R](https://github.com/ropenscilabs/mwparser)
+### `r emo::ji("road")` [ozroaddeaths - Pull data from the Australian Road Deaths Database](https://github.com/ropenscilabs/ozroaddeaths)
 
-### `r emo::ji("eyes")` [rcheatsheet - Create Cheatsheets for R Packages](https://github.com/ropenscilabs/rcheatsheet)
-
-### `r emo::ji("checkered_flag")` [checkers - A Framework for Reviewing Analysis Projects](https://github.com/ropenscilabs/checkers)
-
-### `r emo::ji("100")` [testrmd - Test R Markdown Chunks](https://github.com/ropenscilabs/testrmd)
-
-### `r emo::ji("tidy")` [tidyerjson - A Survey of JSON Affiliated R Packages](https://github.com/ropenscilabs/tidyerjson)
-
-### `r emo::ji("mag")` [gargle - Authentication for Google APIs](https://github.com/r-pkgs/gargle)
-
-### `r emo::ji("shower")` [skimr - Pipeable Summary Functions](https://github.com/ropenscilabs/skimr)
-
-### `r emo::ji("package")` [The State Of Data On CRAN: Discovering Good Data Packages](https://github.com/ropenscilabs/data-packages)
-
-### `r emo::ji("lock")` [notary - Signing & Verification of R Packages](https://github.com/ropenscilabs/notary)
-
-### `r emo::ji("policeman")` [Best Security Practices for R Packages](https://github.com/ropenscilabs/r-security-practices)
-
-### `r emo::ji("tree")` [emldown - Create a Helpful Website from EML Metadata](https://github.com/ropenscilabs/emldown)
-
-### `r emo::ji("ear")` [webrockets - A Websocket Listener for R](https://github.com/ropenscilabs/webrockets)
-
-### `r emo::ji("mountain")` [miner - An R Interface for the Minecraft API](https://github.com/ROpenSciLabs/miner)
-
-### `r emo::ji("pencil")` [gramr - Write Good and Do Other Stuff Good](https://github.com/ropenscilabs/gramr)
-
-### `r emo::ji("recovery")` [packagemetrics - A Package for Helping You Choose Which Package to Use](https://github.com/ropenscilabs/packagemetrics)
-
-### `r emo::ji("raised_hands")` [available - Pick a Good Name for Your R Package](https://github.com/ropenscilabs/available)
-
-### `r emo::ji("city_sunrise")` [cityquant - Toward a Digital Dashboard for Sustainable Cities](https://github.com/ropenscilabs/cityquant)
-
-### `r emo::ji("chicken")` [codefinch - An RStudio Addin for Tweeting Your Code](https://github.com/ropenscilabs/codefinch)
-
-### `r emo::ji("see_no_evil")` [arresteddev - For When Your Development is Going Awry!](https://github.com/ropenscilabs/arresteddev)
-
-### `r emo::ji("horse")` [ponyexpress - Automate Speedy Emails from R - Copy and Paste Neigh More.](https://github.com/ropenscilabs/ponyexpress)
-
-### `r emo::ji("cat2")` [pegax - PEG for Taxonomic Names](https://github.com/ropenscilabs/pegax)
+### `r emo::ji("time")` [realtime - Plot real time events](https://github.com/ropenscilabs/realtime)
 
 ---
 
 If there are any projects that you know are missing please
-[fork](https://github.com/ropenscilabs/runconf17-projects) 
+[fork](https://github.com/ropenscilabs/ozunconf-projects) 
 this document on GitHub, make changes, and then send a pull
 request.
