@@ -4,6 +4,10 @@
 
 ### `r emo::ji("time")` [realtime - Plot real time events](https://github.com/ropenscilabs/realtime)
 
+### `r emo::ji("aeroplane")` [ozflights - pull Aviation data from BITRE ](https://github.com/ropenscilabs/ozflights)
+
+### `r emo::ji("rocket")` [icon - easily insert web icons](https://github.com/ropenscilabs/icon)
+
 ---
 
 If there are any projects that you know are missing please
