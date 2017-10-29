@@ -9,11 +9,11 @@ output: html_document
 
 ### `r emo::ji("cricket")` [cricinfo - access cricket data from crickinfo ](https://github.com/ropenscilabs/cricinfo)
 
-### `r emo::ji("house")` [datagovau](https://github.com/ropenscilabs/datagovau)
+### `r emo::ji("house")` [datagovau - R package to download data catalogued at data.gov.au](https://github.com/ropenscilabs/datagovau)
 
 ### `r emo::ji("rocket")` [icon - easily insert web icons](https://github.com/ropenscilabs/icon)
 
-### `r emo::ji("australia")` `r emo::ji("paint")` [ochRe](https://github.com/ropenscilabs/ochRe)
+### `r emo::ji("australia")` `r emo::ji("paint")` [ochRe - Australia-themed Colour Palettes](https://github.com/ropenscilabs/ochRe)
 
 ### `r emo::ji("aeroplane")` [ozflights - pull Aviation data from BITRE ](https://github.com/ropenscilabs/ozflights)
 
