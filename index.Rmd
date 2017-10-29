@@ -7,7 +7,7 @@ output: html_document
 
 ### `r emo::ji("australia")` `r emo::ji("woman")` `r emo::ji("football")` [AFLW - AFL Womens Data](https://github.com/ropenscilabs/ozwomensport/tree/master/AFLW)
 
-### `r emo::ji("cricket")` [cricinfo - access cricket data from crickinfo ](https://github.com/ropenscilabs/cricinfo)
+### `r emo::ji("cricket")` [cricinfo - access cricket data from cricinfo ](https://github.com/ropenscilabs/cricinfo)
 
 ### `r emo::ji("house")` [datagovau - R package to download data catalogued at data.gov.au](https://github.com/ropenscilabs/datagovau)
 
